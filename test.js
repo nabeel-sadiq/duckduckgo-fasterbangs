@@ -1,0 +1,1 @@
+console.log("hello %24+yes")
