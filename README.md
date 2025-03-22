@@ -1,0 +1,1 @@
+# Faster duckduckgo bangs alternative (completely client side);
